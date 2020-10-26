@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582963268189",
+    "firebase_url": "https://all-day-clinic.firebaseio.com",
+    "project_id": "all-day-clinic",
+    "storage_bucket": "all-day-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582963268189:android:a234ccf4123c7b85eb9bb4",
+        "android_client_info": {
+          "package_name": "ipca.roject.alldayproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582963268189-sdrfkkn4jfp1d5v9gggdjgsqmopqqq0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQ8CxLvSjSp5bQjqXOEBdyh4faCNyfAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582963268189-sdrfkkn4jfp1d5v9gggdjgsqmopqqq0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
