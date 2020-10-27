@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 
 
-class SplashScreen : Activity() {
+class MainActivity2 : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
@@ -16,7 +16,7 @@ class SplashScreen : Activity() {
 
     private fun mostrarMainActivity() {
         val intent = Intent(
-                this@SplashScreen, MainActivity::class.java
+            this@MainActivity2, MainActivity::class.java
         )
         startActivity(intent)
         finish()
